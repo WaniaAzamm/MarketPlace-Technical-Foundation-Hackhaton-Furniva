@@ -18,7 +18,7 @@ Furnivaa is an e-commerce platform built to provide a seamless shopping experien
 
 ## 📄 **Documentation**
 
-### Day 1: Login and Foundation
+### Day 1:Business Planning
 - Focused on Business Goal and Business planning.
 
 ### Day 2: Technical Specifications
