@@ -1,40 +1,73 @@
-# MarketPlace Technical Foundation Hackathon: Furniva
 
-Welcome to the **MarketPlace Technical Foundation Hackathon: Furniva** repository! This project serves as the technical foundation for building a scalable and user-friendly furniture e-commerce platform, developed during the Hackathon.
+---
 
-## Project Overview
+## 🚀 **Project Overview**
 
-The goal of this project is to establish a robust technical foundation for an online marketplace specializing in furniture. The platform aims to connect buyers with local furniture stores, offering a wide range of products and services.
+Furnivaa is an e-commerce platform built to provide a seamless shopping experience for customers and efficient management tools for admins. The project was developed over the course of a hackathon, with each day focusing on a specific aspect of the development process.
 
-## Key Features
+### Key Features:
+- **For Customers:**
+  - Browse and search for furniture products.
+  - Secure checkout and order tracking.
+  - Responsive design for desktop and mobile.
+- **For Admins:**
+  - Manage products, orders, and users.
+  - Track sales and performance with analytics.
 
-- **Product Catalog**: A comprehensive listing of furniture items, including sofas, tables, chairs, and more. The catalog is dynamically updated through a Content Management System (CMS), allowing for easy management and addition of new products.
+---
 
-- **Search and Filter**: Users can search for products by keywords or filter them based on categories (e.g., sofas, tables, chairs) and price ranges, enhancing the shopping experience.
+## 📄 **Documentation**
 
-- **Product Detail Page**: Each product has its own detailed page displaying images, descriptions, prices, and availability, providing users with all necessary information to make informed purchasing decisions.
+### Day 1: Login and Foundation
+- Focused on Business Goal and Business planning.
 
-- **Add to Cart**: Users can add products to their shopping cart and manage the quantity of each item, facilitating a smooth shopping process.
+### Day 2: Technical Specifications
+- Detailed technical requirements, system architecture, and data schema.
+- Files:
+  - `ApiSpecification_Day2.pdf`
+  - `SanitySchema_Day2.pdf`
+  - `SystemArchitecture.pdf.png`
+  - `TechnicalRequirements_Day2.pdf`
+  - `TechnicalExisting_Day2.pdf`
 
-- **Checkout with Stripe**: Integration with Stripe ensures secure and efficient payment processing during checkout.
+### Day 3: API Integration and Data Handling
+- Focused on integrating APIs and handling data efficiently.
+- Files:
+  - `ApiIntegrationeport_Day3.pdf`
 
-- **Responsive Design**: The platform is designed to be fully responsive, ensuring a seamless experience across all devices, from desktops to mobile phones.
+### Day 4: Building Dynamic Frontend Components
+- Developed dynamic frontend components for a responsive user interface.
+- Files:
+  - `Dynamic-Frontend_Components_Day4.pdf`
 
-## Tech Stack
+### Day 5: Tuning and Error Handling
+- Addressed error handling and fine-tuned the system for better performance.
+- Files:
+  - `Testing-Backend.pdf`
+  - `Testing-Report_Day5.csv`
 
-- **Frontend**: Built using Next.js for server-side rendering and static site generation, TypeScript for type safety, and Tailwind CSS for utility-first styling.
+### Day 6 : Deployment Preparation
+- Prepared the project for deployment, including performance testing.
+- Files:
+  - `Performance-testing-report.png`
 
-- **Backend**: Utilizes Sanity CMS for dynamic content management, allowing for easy updates and scalability.
+---
 
-- **Payment Gateway**: Stripe is integrated for secure payment processing.
+## 🛠️ **Technology Stack**
 
-- **Deployment**: The project is deployed on Vercel, ensuring fast and reliable hosting.
+Furnivaa is built using modern technologies to ensure scalability, performance, and a great user experience.
 
-## Installation and Usage
+- **Frontend:**
+  - Next.js
+  - Tailwind CSS 
+- **Authentication:**
+  - Clerk
+- **Deployment:**
+  - Vercel (Frontend)
+- **Shipment:**
+- ShipEngine
 
-To run the project locally:
 
-1. **Clone the Repository**:
+---
 
-   ```bash
-   git clone https://github.com/WaniaAzamm/MarketPlace-Technical-Foundation-Hackhaton-Furniva.git
+
