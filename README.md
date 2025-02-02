@@ -50,6 +50,11 @@ Furnivaa is an e-commerce platform built to provide a seamless shopping experien
 - Prepared the project for deployment, including performance testing.
 - Files:
   - `Performance-testing-report.png`
+  - 
+ ### Day 7 : Live Deployment and post laucnh practices
+- Deploy the prohject.
+- Files:
+  - `Live_Deployment.pdf`
 
 ---
 
